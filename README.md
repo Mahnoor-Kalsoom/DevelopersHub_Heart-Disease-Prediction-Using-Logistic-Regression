@@ -1,5 +1,5 @@
 # ❤️ Heart Disease Prediction Using Logistic Regression  
-*(DevelopersHub – Task 2)*
+*(DevelopersHub – Task 3)*
 
 ## 📌 Objective  
 The objective of this task is to build a machine learning model that predicts whether a person is at risk of heart disease based on medical and health-related attributes.  
@@ -120,5 +120,5 @@ The achieved results show that Logistic Regression is an effective baseline mode
 ## 👩‍💻 Author  
 
 **Name:** Mahnoor Kalsoom  
-**Task:** AI/ML Internship – Task 2  
+**Task:** AI/ML Internship – Task 3  
 **Organization:** DevelopersHub Corporation  
